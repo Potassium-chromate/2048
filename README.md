@@ -26,3 +26,11 @@ The score is calculated by summing up the values of all the tiles on the board.
 
 ## Winning
 If you create a tile with a value of 2048 or greater, you win the game. You will be prompted to continue playing or to end the game.
+
+## Game screen
++ start  
+![Alt Text](https://github.com/Potassium-chromate/2048/blob/main/Picture/start.png)
++ Rules  
+![Alt Text](https://github.com/Potassium-chromate/2048/blob/main/Picture/Annoince%20the%20rules.png)
++ In game  
+![Alt Text](https://github.com/Potassium-chromate/2048/blob/main/Picture/In%20game.png)
