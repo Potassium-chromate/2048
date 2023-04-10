@@ -10,7 +10,7 @@ Windows may block the provided `2048.exe` executable file due to security reason
 3. Run the compiled executable to start the game.
 
 ## Controls
-+ ``: Move up
++ `w`: Move up
 + `s`: Move down
 + `a`: Move left
 + `d`: Move right
